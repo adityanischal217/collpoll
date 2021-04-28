@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollpollTest</string>
+    <string name="feed">FEED</string>
+    <string name="saved">SAVED</string>
+</resources>
